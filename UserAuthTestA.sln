@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UserAuthTestA", "UserAuthTestA\UserAuthTestA.csproj", "{041C1EB2-6000-4454-971C-4325B6BDE89E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041C1EB2-6000-4454-971C-4325B6BDE89E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041C1EB2-6000-4454-971C-4325B6BDE89E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041C1EB2-6000-4454-971C-4325B6BDE89E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041C1EB2-6000-4454-971C-4325B6BDE89E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D2DEC14-DFB4-4E5E-9847-91D8EB46F8D1}
+	EndGlobalSection
+EndGlobal
